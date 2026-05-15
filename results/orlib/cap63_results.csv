@@ -1,0 +1,4 @@
+instance_name,formulation,num_facilities,num_customers,total_demand,total_capacity,capacity_slack,num_vars,num_binary_vars,num_constraints,objective_value,root_lp_objective,lp_gap_fraction,best_bound,mip_gap,runtime_sec,mip_nodes,cuts_applied,status,time_limit_sec,gurobi_version,seed,instance_source,capacity_slack_param
+cap63,loose_big_m,16,50,58268.0,240000.0,4.118898881032471,816,816,82,1014099.6124999999,854529.834304421,0.15735118742645113,1014099.6124999999,0.0,0.0242919921875,1.0,82,OPTIMAL,300.0,13.0.2,,or_library,
+cap63,tight_big_m,16,50,58268.0,240000.0,4.118898881032471,816,816,66,1014099.6124999999,902175.2041666667,0.11036825865401188,1014099.6124999999,0.0,0.021820068359375,1.0,82,OPTIMAL,300.0,13.0.2,,or_library,
+cap63,indicator,16,50,58268.0,240000.0,4.118898881032471,816,816,82,1014099.6124999999,837970.1875,0.17368059589905419,1014099.6124999999,0.0,0.048738956451416016,1.0,90,OPTIMAL,300.0,13.0.2,,or_library,
