@@ -2,12 +2,8 @@ __pycache__/
 *.pyc
 
 results/*
-results/random_grid/*
-results/orlib/*
 
 !results/.gitkeep
-!results/random_grid/.gitkeep
-!results/orlib/.gitkeep
 
 figures/*
 
