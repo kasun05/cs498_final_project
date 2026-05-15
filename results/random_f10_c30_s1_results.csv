@@ -1,4 +1,0 @@
-instance_name,formulation,objective_value,root_lp_objective,lp_gap_fraction,runtime_sec,mip_nodes,cuts_applied,status
-random_f10_c30_s1,loose_big_m,1614.036,268.90082121402406,0.833398498413899,0.12719392776489258,479.0,72,OPTIMAL
-random_f10_c30_s1,tight_big_m,1614.036,1571.2076690875792,0.026534929154257293,0.11634182929992676,479.0,72,OPTIMAL
-random_f10_c30_s1,indicator,1614.036,85.2224523809524,0.9471991626079268,0.08893394470214844,265.0,69,OPTIMAL
