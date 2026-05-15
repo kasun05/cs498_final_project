@@ -9,6 +9,6 @@ results/orlib/*
 !results/random_grid/.gitkeep
 !results/orlib/.gitkeep
 
-figures/
+figures/*
 
 !figures/.gitkeep
